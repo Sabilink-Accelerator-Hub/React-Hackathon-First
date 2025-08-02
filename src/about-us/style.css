@@ -29,3 +29,19 @@
     object-fit: cover;
     border-radius: 6px;
 }
+.card-grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 24px;
+    flex: 1;
+    align-items: flex-start;
+
+}
+.card-btn {
+    margin-top: 18px;
+    padding: 8px 18px;
+    border-radius: 6px;
+    border: none;
+    background: #eee;
+    cursor: pointer;
+}

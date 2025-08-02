@@ -31,7 +31,7 @@ const AboutUs = () => {
                             {photoInfo[selectedIdx].flavortext}
                         </div>
                         <button
-                            style={{ marginTop: '18px', padding: '8px 18px', borderRadius: '6px', border: 'none', background: '#eee', cursor: 'pointer' }}
+                            className='card-btn'
                             onClick={() => setSelectedIdx(null)}
                         >
                             Close
