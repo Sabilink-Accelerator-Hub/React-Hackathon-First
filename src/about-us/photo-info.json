@@ -1,0 +1,68 @@
+[
+    {
+        "Photo": "Y1.png",
+        "Name": "Adebola Ige",
+        "Position": "President",
+        "flavortext": "Leading with vision and dedication, Adebola inspires the team to reach new heights. As President, Adebola is the driving force behind every initiative, always encouraging collaboration and innovation. With a keen sense of responsibility and a passion for excellence, Adebola ensures that every member feels valued and motivated, fostering an environment where ideas flourish and goals are achieved together."
+    },
+    {
+        "Photo": "Y2.png",
+        "Name": "Adebukola Adewuyi",
+        "Position": "Vice President",
+        "flavortext": "Adebukola brings energy and support, always ready to lend a helping hand. As Vice President, Adebukola is the backbone of the team, stepping in wherever needed and providing unwavering support. With a positive attitude and a knack for problem-solving, Adebukola helps maintain harmony and keeps everyone focused on the bigger picture, ensuring that the team's efforts are always aligned with their shared vision."
+    },
+    {
+        "Photo": "Y3.png",
+        "Name": "Funmilola Iyiola",
+        "Position": "General Secretary",
+        "flavortext": "Organized and detail-oriented, Funmilola keeps everything running smoothly. As General Secretary, Funmilola manages communications, schedules, and documentation with precision. Her commitment to transparency and efficiency ensures that the team stays informed and on track, making her an indispensable part of every project and event."
+    },
+    {
+        "Photo": "Y4.png",
+        "Name": "Kehinde Olabanji",
+        "Position": "Provost",
+        "flavortext": "Kehinde ensures fairness and order, guiding the team with wisdom. As Provost, Kehinde is dedicated to upholding the values and standards of the organization. With a thoughtful approach to leadership, Kehinde mediates challenges and fosters a culture of respect, making sure that every voice is heard and every decision is made with integrity."
+    },
+    {
+        "Photo": "Y5.png",
+        "Name": "Adebakin Opeoluwa",
+        "Position": "Treasurer",
+        "flavortext": "Adebakin manages resources with care, always keeping the books balanced. As Treasurer, Adebakin oversees the financial health of the team, ensuring that every transaction is transparent and every budget is met. With a sharp eye for detail and a commitment to accountability, Adebakin helps the team make smart decisions that support their long-term goals."
+    },
+    {
+        "Photo": "Y6.png",
+        "Name": "Funmi Agberotimi",
+        "Position": "Social and Welfare Secretary",
+        "flavortext": "Funmi brings warmth and compassion, making sure everyone feels included. As Social and Welfare Secretary, Funmi organizes events and initiatives that foster a sense of belonging. Her empathetic nature and dedication to well-being create a supportive atmosphere, where every member feels cared for and valued."
+    },
+    {
+        "Photo": "Y7.png",
+        "Name": "Kikelomo Ayantayo",
+        "Position": "Youth and Cultural Affairs Secretary",
+        "flavortext": "Kikelomo celebrates diversity and youth, fostering a vibrant community spirit. As Youth and Cultural Affairs Secretary, Kikelomo champions programs that highlight the richness of different backgrounds and experiences. Her enthusiasm for cultural exchange and youth empowerment brings fresh perspectives and energy to the team, making every gathering memorable."
+    },
+    {
+        "Photo": "Y8.png",
+        "Name": "Tosin Olugbebi",
+        "Position": "Public Relations Officer",
+        "flavortext": "Tosin connects people and ideas, sharing the team's story with the world. As Public Relations Officer, Tosin crafts messages that resonate with the community and beyond. his creativity and communication skills help build strong relationships, ensuring that the team's achievements and values are recognized and celebrated."
+    },
+    {
+        "Photo": "Y9.png",
+        "Name": "Afesobi Adewuyi",
+        "Position": "Secretary of Women's Affairs",
+        "flavortext": "Afesobi champions empowerment, supporting women in every endeavor. As Secretary of Women's Affairs, Afesobi advocates for inclusivity and equal opportunities. Her dedication to uplifting women and addressing their unique needs strengthens the team, creating a space where everyone can thrive and contribute meaningfully."
+    },
+    {
+        "Photo": "Y10.png",
+        "Name": "Josiah Akinsanmi",
+        "Position": "Ex-Officio",
+        "flavortext": "Josiah offers valuable insights, always ready to provide guidance. As Ex-Officio, Josiah draws on experience and perspective to advise the team on important decisions. His thoughtful counsel and willingness to mentor others help the organization navigate challenges and seize new opportunities."
+    },
+    {
+        "Photo": "Y11.png",
+        "Name": "Ademola Taiwo",
+        "Position": "Ex-Officio",
+        "flavortext": "Ademola brings experience and wisdom, helping the team achieve its goals. As Ex-Officio, Ademola supports the team with strategic advice and encouragement. His steady presence and commitment to the organization's mission inspire confidence, ensuring that every project is approached with clarity and purpose."
+    }
+]
