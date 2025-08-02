@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Yoruba Association Website in React
+
+The aim of this hackathon is to create https://yorubabc.ca/ originally built with Wordpress to React
+
+
 ## Available Scripts
 
 In the project directory, you can run:
