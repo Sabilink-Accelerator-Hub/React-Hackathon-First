@@ -1,12 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
-import AboutUs  from './about-us/aboutUs';
+import logo from "./logo.svg";
+import "./App.css";
+
 function App() {
-  return (
-    <div className="App">
-      <AboutUs />
-    </div>
-  );
+  return <div className="App"></div>;
 }
 
 export default App;
