@@ -3,7 +3,7 @@ import "./Home.css";
 
 const Home = () => {
   return (
-    <div className="home">
+    <main className="home">
       {/* Header */}
       <header className="header">
         <div className="logo">Yoruba BC</div>
@@ -21,6 +21,23 @@ const Home = () => {
           <div className="partner">Egbe Omo Yoruba Ti BC</div>
           <span>Now Official Partners</span>
           <div className="partner">SBOT</div>
+        </div>
+      </section>
+
+      <section>
+        <div>
+          <h1 className="">Welcome to YorubaBC</h1>
+          <p>
+            Promoting the Yoruba language and culture in British Columbia
+            through community programs, events, and resources.
+          </p>
+          <button>Learn More</button>
+        </div>
+        <div className="md:w-1/2">
+          <img
+            src="https://yorubabc.ca/wp-content/uploads/2022/11/yoruba-children.jpg"
+            alt="Yoruba Culture"
+          />
         </div>
       </section>
 
@@ -57,7 +74,7 @@ const Home = () => {
       <footer className="footer">
         <p>&copy; 2025 Egbe Omo Yoruba Ti BC. All rights reserved.</p>
       </footer>
-    </div>
+    </main>
   );
 };
 
