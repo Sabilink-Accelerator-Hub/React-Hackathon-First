@@ -2,6 +2,7 @@
 import Navbar from '../global-components/navbar';
 import React from 'react';
 import photoInfo from './photo-info.json';
+import './style.css';
 
 const AboutUs = () => {
     const [hoveredIdx, setHoveredIdx] = React.useState(null);
@@ -14,27 +15,14 @@ const AboutUs = () => {
             <h1>About Us</h1>
             <p>Welcome to our about us page! Here you can learn more about our mission, values, and the team behind our project.</p>
             <p>We are committed to providing the best service and experience for our users. Our team is dedicated to continuous improvement and innovation.</p>
-            <div style={{ display: 'flex', marginTop: '32px', minHeight: '300px' }}>
+            <div className='outer-div'>
                 {/* Selected card and flavortext */}
                 {selectedIdx !== null && (
-                    <div style={{ flex: '0 0 350px', marginRight: '40px', display: 'flex', flexDirection: 'column', alignItems: 'flex-start' }}>
-                        <div
-                            style={{
-                                textAlign: 'center',
-                                border: '1px solid #eee',
-                                borderRadius: '8px',
-                                padding: '24px',
-                                background: '#fafafa',
-                                boxShadow: '0 8px 24px rgba(0,0,0,0.10)',
-                                transform: 'scale(1.15)',
-                                width: '350px',
-                                transition: 'transform 0.3s cubic-bezier(.25,.8,.25,1)'
-                            }}
-                        >
-                            <img
+                    <div className='inner-div'>
+                        <div className="image-container">
+                            <img className='image-style'
                                 src={`https://yorubabc.ca/storage/2023/07/${photoInfo[selectedIdx].Photo}`}
                                 alt={photoInfo[selectedIdx].Name}
-                                style={{ width: '100%', height: '220px', objectFit: 'cover', borderRadius: '6px' }}
                             />
                             <h2 style={{ margin: '16px 0 6px 0', fontSize: '1.35em' }}>{photoInfo[selectedIdx].Name}</h2>
                             <h5 style={{ margin: '0', color: '#666', fontWeight: 'normal', fontSize: '1em' }}>{photoInfo[selectedIdx].Position}</h5>
